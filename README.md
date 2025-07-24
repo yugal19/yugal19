@@ -41,7 +41,7 @@ Welcome to my GitHub! I'm a **backend developer** who enjoys building practical 
 
 ## 🧠 Featured Projects
 
-### 🤖 [Agentic AI Chatbot](https://github.com/yugal19/agentic-ai-chatbot)
+### 🤖 [Agentic AI Chatbot]((https://github.com/yugal19/AI-Agentic-Chatbot-Repo.git))
 AI chatbot using LangChain agents and vector search.
 - **Stack:** FastAPI, MongoDB, LangChain, Pinecone, OpenAI
 - **Highlights:** Contextual chat, tool use, document Q&A
