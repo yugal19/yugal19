@@ -8,7 +8,8 @@ Welcome to my GitHub! I'm a **passionate developer** who enjoys building practic
 
 - 🔧 Focused on backend-heavy, API-driven systems with clean architecture  
 - 🤖 Interested in AI, automation, and scalable services  
-- 🐛 Enjoy debugging, solving tricky bugs, and learning from them  
+- 🐛 Enjoy debugging, solving tricky bugs, and learning from them
+- 🧩 Problem solver – solved 100+ Leetcode problems  
 - 🧠 Always up for collaboration and learning something new  
 - 📫 Reach me at: [yugalchandak19@gmail.com](mailto:yugalchandak19@gmail.com)
 
