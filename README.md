@@ -76,17 +76,6 @@ A user consent management platform built for B2B data-sharing compliance use cas
 - **Role:** Contributed as an intern — developed key modules including **SMTP integration**, **SMS notification**, **cookie management**, and **vendor management APIs** during the internship period
 
 
----
-
-## 🎯 Current Focus
-
-- 🧠 Learning LLMs & embedding-based search  
-- 🔒 Mastering secure backend systems with JWT & OAuth  
-- ☁️ Cloud-native DevOps tools like Docker, MinIO  
-- 📘 Writing deep-dive blogs on backend architecture  
-- 🤖 Exploring AI integrations and agentic pipelines
-
----
 
 ## 💡 Random Dev Quote
 
