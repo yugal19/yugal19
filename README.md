@@ -1,6 +1,6 @@
 # Hi there! 👋 I'm Yugal
 
-Welcome to my GitHub! I'm a **backend developer** who enjoys building practical solutions, scaling systems, and exploring AI applications in real-world use cases.
+Welcome to my GitHub! I'm a **passionate developer** who enjoys building practical solutions, scaling systems, and exploring AI applications in real-world use cases.
 
 ---
 
