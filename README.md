@@ -43,28 +43,29 @@ Welcome to my GitHub! I'm a **backend developer** who enjoys building practical 
 
 ### 🤖 [Agentic AI Chatbot](https://github.com/yugal19/AI-Agentic-Chatbot-Repo.git)
 AI chatbot using LangChain agents and vector search.
-- **Stack:** FastAPI, MongoDB, LangChain, Pinecone, OpenAI
-- **Highlights:** Contextual chat, tool use, document Q&A
+- **Stack:** FastAPI, MongoDB, LangChain,Groq
+- **Highlights:** Contextual chat, tool use, Tavily Search
 
 ### 📄 [AI Resume Parser & Matcher](https://github.com/yugal19/ai-resume-parser)
 Parses resumes and matches them with job descriptions.
-- **Stack:** FastAPI, Gemini, LangChain  
-- **Highlights:** Candidate ranking, semantic search
+- **Stack:** FastAPI, Gemini, LLM   
+- **Highlights:** Job ranking, semantic search
 
-### 📁 [SmartDoc RAG Pipeline](https://github.com/yugal19/smartdoc-rag)
+### 📁 [SmartDoc RAG Pipeline](https://github.com/yugal19/rag-implementation.git)
 Document upload + embedding + retrieval using RAG.
-- **Stack:** FastAPI, MongoDB, Cloudinary, MinIO  
+- **Stack:** FastAPI, LanceDb, Langchain , Mistral
 - **Highlights:** Upload, chunk, search from file-based knowledge
 
 ---
 
 ## 💼 Internship Work
 
+### ✅ [Concur Consent API Platform](https://github.com/yugal19/concur-consent)
+Built key modules: SMTP, SMS, cookie/vendor management for B2B consent handling.
+
 ### 🛡️ [Certana – Secure Document Auth System](https://github.com/yugal19/certana)
 APIs for secure file upload, JWT-based validation, and signed access.
 
-### ✅ [Concur Consent API Platform](https://github.com/yugal19/concur-consent)
-Built key modules: SMTP, SMS, cookie/vendor management for B2B consent handling.
 
 ---
 
