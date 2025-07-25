@@ -1,30 +1,31 @@
 # Hi there! 👋 I'm Yugal
 
-Welcome to my GitHub! I'm a **passionate developer** who enjoys building practical solutions, scaling systems, and exploring AI applications in real-world use cases.
+Welcome to my GitHub! I'm a **passionate developer** who loves building real-world projects, exploring AI, and turning ideas into useful tools.
 
 ---
 
 ## 🚀 About Me
 
-- 🔧 Focused on backend-heavy, API-driven systems with clean architecture  
-- 🤖 Interested in AI, automation, and scalable services  
-- 🐛 Enjoy debugging, solving tricky bugs, and learning from them
-- 🧩 Problem solver – solved 100+ Leetcode problems  
-- 🧠 Always up for collaboration and learning something new  
+- 💡 I enjoy bringing creative tech ideas to life
+- 🧠 Always exploring AI, automation, and developer tools
+- 🛠️ I love crafting clean, maintainable systems and experimenting with new technologies
+- 🐞 Debugging and solving tricky issues is my kind of fun
+- 🧩 Problem-solving enthusiast – solved 100+ Leetcode challenges
+- 🤝 Open to collaborations, brainstorming, and cool tech convos
 - 📫 Reach me at: [yugalchandak19@gmail.com](mailto:yugalchandak19@gmail.com)
 
 ---
 
 ## 🛠️ Tech Stack
 
-### 💻 Programming Languages
+### 💻 Languages
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-### ⚙️ Backend & Tools
+### ⚙️ Frameworks, Tools & More
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MinIO](https://img.shields.io/badge/MinIO-C8202F?style=for-the-badge&logo=minio&logoColor=white)
@@ -43,30 +44,26 @@ Welcome to my GitHub! I'm a **passionate developer** who enjoys building practic
 ## 🧠 Featured Projects
 
 ### 🤖 [Agentic AI Chatbot](https://github.com/yugal19/AI-Agentic-Chatbot-Repo.git)
-AI chatbot using LangChain agents and vector search.
-- **Stack:** FastAPI, MongoDB, LangChain,Groq
-- **Highlights:** Contextual chat, tool use, Tavily Search
+AI chatbot with tool usage, vector memory, and contextual chat.  
+**Built With:** LangChain, FastAPI, MongoDB, Groq, Tavily
 
 ### 📄 [AI Resume Parser & Matcher](https://github.com/yugal19/ai-resume-parser)
-Parses resumes and matches them with job descriptions.
-- **Stack:** FastAPI, Gemini, LLM   
-- **Highlights:** Job ranking, semantic search
+Reads resumes, understands context, and matches them to job descriptions.  
+**Built With:** Gemini API, LLMs, FastAPI
 
 ### 📁 [SmartDoc RAG Pipeline](https://github.com/yugal19/rag-implementation.git)
-Document upload + embedding + retrieval using RAG.
-- **Stack:** FastAPI, LanceDb, Langchain , Mistral
-- **Highlights:** Upload, chunk, search from file-based knowledge
+Document upload → Embed → Search → Respond using your own documents.  
+**Built With:** Mistral, Langchain, LanceDB
 
 ---
 
 ## 💼 Internship Work
 
 ### ✅ [Concur Consent API Platform](https://github.com/yugal19/concur-consent)
-Built key modules: SMTP, SMS, cookie/vendor management for B2B consent handling.
+Worked on modules like SMTP alerts, SMS handlers, and cookie/vendor management for enterprise-grade consent flows.
 
 ### 🛡️ [Certana – Secure Document Auth System](https://github.com/yugal19/certana)
-APIs for secure file upload, JWT-based validation, and signed access.
-
+APIs for secure file uploads, signed file access, and tamper-proof validation using JWT.
 
 ---
 
