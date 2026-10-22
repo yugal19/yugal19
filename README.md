@@ -11,7 +11,7 @@ Hi there, I'm an AI/ML and Full Stack Developer passionate about building, scali
   <a href="https://www.linkedin.com/in/yugal-chandak-25b993285/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://yugal19.github.io">
+  <a href="https://yugal-connect-flow-git-main-yugal19s-projects.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
   </a>
   <a href="mailto:yugalchandak19@gmail.com">
